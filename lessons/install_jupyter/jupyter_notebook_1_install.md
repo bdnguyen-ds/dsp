@@ -38,7 +38,25 @@ At terminal prompt:
  * control + c
  * type:  `y`
  
->my example 
+>[I 16:25:06.371 NotebookApp] JupyterLab extension loaded from C:\ProgramData\Anaconda3\lib\site-packages\jupyterlab
+[I 16:25:06.371 NotebookApp] JupyterLab application directory is C:\ProgramData\Anaconda3\share\jupyter\lab
+[I 16:25:06.372 NotebookApp] Serving notebooks from local directory: D:\Users\huahuashishi
+[I 16:25:06.372 NotebookApp] The Jupyter Notebook is running at:
+[I 16:25:06.372 NotebookApp] http://localhost:8888/?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+[I 16:25:06.373 NotebookApp]  or http://127.0.0.1:8888/?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+[I 16:25:06.373 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:25:06.423 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/huahuashishi/AppData/Roaming/jupyter/runtime/nbserver-51076-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+     or http://127.0.0.1:8888/?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+[E 16:25:07.657 NotebookApp] Could not open static file ''
+[W 16:25:07.702 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 5.98ms referer=http://localhost:8888/tree?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+[W 16:25:07.706 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.00ms referer=http://localhost:8888/tree?token=c6c010c799b879a333e1d6310ae7e30c971362461c2dabbf
+[I 16:25:16.423 NotebookApp] Interrupted...
+[I 16:25:16.423 NotebookApp] Shutting down 0 kernels
 ```console
 ^C[I 11:43:35.486 NotebookApp] interrupted
 Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
