@@ -57,9 +57,8 @@ In the Terminal:
 
 >> Python 3.7.3
 
-#### [BDN] Notes:
+### [BDN] Notes:
 - Installed git version 2.28.0.windows.1
 - Installed Anaconda version 2019.07 (Windows)
-
 
 
