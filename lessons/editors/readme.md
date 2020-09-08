@@ -63,4 +63,5 @@ Spyder and PyCharm are IDEs for Python. They try to give you a fully configured 
 We will also use Jupyter notebooks, but this does not remove the need for proficiency in an editor or IDE.
 
 ## [BDN] Notes
-- Installed VIM on windows, and can use it comfortably
+- Installed VIM on Windows 10, and can use it comfortably
+- Installed Nano on Windows 10, and can use it comfortably
