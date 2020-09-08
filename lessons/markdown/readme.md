@@ -179,4 +179,4 @@ Content in the first column | Content in the second column
 Test emojis:
 :smiley: :star: :muscle:
 
-<span style='color:Blue'> Blue is my favorite color.  </span>
+foo <font color='red'>bar</font> foo
