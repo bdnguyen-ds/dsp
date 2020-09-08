@@ -178,3 +178,5 @@ Content in the first column | Content in the second column
 ## [BDN] Sandbox Area for executing Markdown commands
 Test emojis:
 :smiley: :star: :muscle:
+
+<span style='color:Blue'> Blue is my favorite color.  </span>
