@@ -24,7 +24,7 @@ Note:  The notebook will open at the directory in which you launch the notebook 
 ```
 $ jupyter notebook
 ```
->my example
+>[BDN]my example
 ```console
 reshama$ jupyter notebook
 [I 11:41:22.769 NotebookApp] Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
