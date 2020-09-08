@@ -175,6 +175,6 @@ Content in the first column | Content in the second column
 
 [Markdown Help](http://mathoverflow.net/editing-help)
 
-## Sandbox Area for executing Markdown commands
+## [BDN] Sandbox Area for executing Markdown commands
 Test emojis:
-:smiley: :fireworks:
+:smiley: :star: :muscle:
