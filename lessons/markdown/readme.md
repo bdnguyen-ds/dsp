@@ -179,4 +179,4 @@ Content in the first column | Content in the second column
 Test emojis:
 :smiley: :star: :muscle:
 
-foo <font color='red'>bar</font> foo
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
